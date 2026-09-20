@@ -1,0 +1,10 @@
+# 機密
+.env
+
+# 本地資料庫與資料
+*.db
+*.sqlite
+data/
+
+# Obsidian 本機設定
+.obsidian/
